@@ -11,7 +11,7 @@ author: "Chinmay,Simrat,Kumkum"
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
-  <iframe src="https://docs.google.com/presentation/d/1qbi_0WruVWqfvbv0CpcbORDdaqfnM1GFOAnFr3XxVO4/edit?ts=5bd750af#slide=id.g46827bfa30_0_5" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src=https://docs.google.com/presentation/d/e/2PACX-1vSQSjmP92E_bpIB9NdT5Y2Xzl6A019FnpOuek-Bcmrja8QTuIc_vgNwBn0_87HXnY0ltlImZrv4mwHq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
 
