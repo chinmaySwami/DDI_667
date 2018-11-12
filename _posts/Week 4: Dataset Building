@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 2: Work in Progress"
+author: "Chinmay,Simrat,Kumkum"
+---
+
+## Activities performed in this week
+* Understand the drugbank dataset.
+* Read about convolutional neural nets.
+* Write code for extracting name of the drug from the drug bank ID present in the name of the smile files which were downloaded.
+* Carried out exhaustive testing actitities to validate the results obtained in above activity
+* Fixed some of the issues which were discovered in the above actitity .
