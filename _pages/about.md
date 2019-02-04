@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drug-Drug Interaction Extraction from Drug Labels"
-author: "Chinmay Swami | Gursimrat Singh | Kumkum Kaushal"
+author: "Chinmay Swami"
 permalink: /about/
 ---
 ![Placeholder image](https://github.com/gursimrat-singh/ddi_cse567/blob/master/assets/xdrug-drug-interaction.png?raw=true "Placeholder image")
